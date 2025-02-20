@@ -76,6 +76,7 @@ watsonx.ai上で使用できるGoogle、Wikipedia検索や、Pythonコードの�
     - Wikipedia検索
     - Python 通訳者
     ![ツールの選択画面で3つ選択された状態](images/1080.png)
+    <!-- 上記画像Pythonが復活し次第差し替え -->
     - 詳細の定義は初期値のままでOK
     ![パラメータ](images/1090.png)
 3. AIエージェント完成です🎉
@@ -111,6 +112,7 @@ watsonx.ai上で使用できるGoogle、Wikipedia検索や、Pythonコードの�
 ### 他の質問をしてみる
 -  IBMとは？
 <!-- -  GDPトップ5を棒グラフで教えてください -->
+<!-- 上記Pythonが復活し次第差し替え -->
 
 #### 出力結果の例
 ###### IBMとは？
@@ -121,4 +123,5 @@ watsonx.ai上で使用できるGoogle、Wikipedia検索や、Pythonコードの�
 <!-- ###### GDPトップ5を棒グラフで教えてください
 ![どうしてこんな答えが返ってきたのだろう？が開いた状態](images/1190.png)
 ![アコーディオンメニューの一番上が開いた状態](images/1200.png) -->
+<!-- 上記2画像Pythonが復活し次第差し替え -->
 
