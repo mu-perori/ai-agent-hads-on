@@ -7,7 +7,7 @@ watsonx.ai上で使用できるGoogle、Wikipedia検索や、Pythonコードの�
 [ワークショップ環境の事前準備](preparation/00_techzone_environments_preparation.md)
 
 ## 1. ワークショップ環境へのアクセス
-[ワークショップ環境へのアクセス](preparation/02_watsonx_ai_open_watson_studio.md)
+[ワークショップ環境へのアクセス](preparation/01_techzone_use_environments.md)
 
 ## 2. watsonx.aiへのアクセス
 [watsonx.aiへのアクセス](preparation/02_watsonx_ai_open_watson_studio.md)
