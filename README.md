@@ -1,5 +1,5 @@
 # 作って学ぶAIエージェント〜watsonx.aiでチャットボットを作ってみよう〜
-watsonx.ai上で使用できるGoogle、Wikipedia検索や、Pythonコードの生成・実行などのツールを用いて汎用的なAIエージェントを作ります。
+watsonx.ai上で使用できるGoogle、Wikipedia検索などのツールを用いて汎用的なAIエージェントを作ります。
 
 ![完成イメージ図](./images/overall_remove_python.png)
 
