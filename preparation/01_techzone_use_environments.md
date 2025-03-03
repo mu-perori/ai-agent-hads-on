@@ -46,28 +46,27 @@ cookieの許可の画面が下部に表示されますので、「Accept all」�
 「Enter the workshop password/access code.」
 に上記のPasswordを入力し、<br>
 「Submit password/access code」をクリックします。<br>
+ログイン後、メールが届くまでしばらくお待ちください。<br>
 <img width="800" alt="" src="images/01_2-2.jpg">
 
-尚、使用したIBM idのメールアドレスに「Account: Action required: You are invited to join an account in IBM Cloud」というSubjectのメールが`no-reply@cloud.ibm.com`より送付されますが、無視してください。特にアクションは不要です。<br>
-送付されるメールの例：<br>
-<img width="800" alt="" src="images/01_2-2-mail.jpg">
+### 2-3. IBM Cloudから届いたメールの「Join now」をクリックしてIBM Cloudへアクセス
+使用したIBM idのメールアドレスに「Account: Action required: You are invited to join an account in IBM Cloud」という件名のメールが`no-reply@cloud.ibm.com`より送付されます。<br>
+`Join now`をクリックしてIBM Cloudにアクセスしてください。<br>
+![Join nowのメール](images/01_0100.png)
 
-### 2-3. Workshop環境の情報が表示されます
-使用するのは以下の3つです<br>
-- IBM Cloud Login
-- Username
-- Password
+### 2-4. (IBM Cloudのアカウントをお持ちでない場合)画面の指示に従ってアカウントを作成
+1. パスワードを作成
+![パスワード入力](images/01_0120.png)
+2. 氏名を入力して`次のステップ`をクリック
+![名前の入力](images/01_0130.png)
+3. チェックボックスにチェックを入れて`アカウントに参加`をクリック
+![alt text](images/01_0140.png)
 
-`IBM Cloud Login`のURLがログインページです。<br>
-`Username`と`Password`の値を使用してログインします。<br>
-<img width="800" alt="" src="images/01_2-3-01.jpg"><br>
-
-### 2-4. IBM Cloud LoginのURLをクリックし、ログイン画面を表示
-<img  alt="" src="images/01_2-4.jpg"><br>
-
-
-### 2-5. Usesrname と　Passwordを入力し「Sign in」をクリックしてIBM Cloudにログイン
-<img width="800" alt="" src="images/01_2-5.jpg"><br>
+### 2-5. IBM Cloudのアカウントでログイン
+1. メールアドレスを確認後、`続行`をクリック
+![alt text](images/01_0210.png)
+2. パスワードを入力して`ログイン`をクリック
+![alt text](images/01_0220.png)
 
 ログインが成功するとIBM Cloudのダッシュボードが表示されます<br>
 <img width="800" alt="" src="images/01_2-5-ibmcloud.jpg"><br>
