@@ -25,5 +25,9 @@
 ログインが成功するとIBM Cloudのダッシュボードが表示されます<br>
 <img width="800" alt="" src="images/01_2-5-ibmcloud.jpg"><br>
 
+## 4. watsonx.aiへのアクセス
+続けて、watsonx.aiへのアクセスをお願いします。<br>
+手順は[watsonx.aiへのアクセス](preparation/02_watsonx_ai_open_watson_studio.md)を参照してください。
+
 ---
 [作って学ぶAIエージェント〜watsonx.aiでチャットボットを作ってみよう〜 - トップページに戻る](../README.md)
