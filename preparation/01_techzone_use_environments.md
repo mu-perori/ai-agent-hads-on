@@ -27,7 +27,7 @@
 
 ## 4. watsonx.aiへのアクセス
 続けて、watsonx.aiへのアクセスをお願いします。<br>
-手順は[watsonx.aiへのアクセス](preparation/02_watsonx_ai_open_watson_studio.md)を参照してください。
+手順は[watsonx.aiへのアクセス](02_watsonx_ai_open_watson_studio.md)を参照してください。
 
 ---
 [作って学ぶAIエージェント〜watsonx.aiでチャットボットを作ってみよう〜 - トップページに戻る](../README.md)
